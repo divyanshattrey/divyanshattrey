@@ -1,97 +1,100 @@
 <div align="center">
 
-# DIVYANSH ATTREY
+# HEY, I'M DIVYANSH 👋
 
-**Hackathon Organizer · Community Builder · Building for the Real World**
+### I organize hackathons. I build communities. I turn ideas into things that actually happen.
 
-16, based in Delhi. I bring builders into the same room, turn ideas into events, and occasionally remember to sleep.
+**16 · Delhi, India · Event Organizer / Builder / Professional Tab Hoarder**
 
-[**Website**](https://www.technotroob.xyz/) &nbsp;·&nbsp; [**Instagram**](https://instagram.com/whereissdivyansh/) &nbsp;·&nbsp; [**Email**](mailto:divyanshattrey491@gmail.com)
+*Usually planning an event, chasing a deadline, or building something that solves an actual problem.*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3300&pause=1300&color=A7ADB7&center=true&vCenter=true&width=700&height=45&lines=I+organize+hackathons+%26+events.;I+build+things+for+real+problems.;Good+ideas+deserve+more+than+a+group+chat." alt="Animated introduction" />
+[🌐 **MY WEBSITE**](https://www.technotroob.xyz/) &nbsp; • &nbsp; [📸 **INSTAGRAM**](https://instagram.com/whereissdivyansh/) &nbsp; • &nbsp; [✉️ **EMAIL ME**](mailto:divyanshattrey491@gmail.com)
 
 </div>
 
 ---
 
-## THE PERSON BEHIND THE TABS
+## ⚡ NOT JUST HERE TO PUSH COMMITS
 
-I spend most of my time **organizing hackathons and tech events**—the kind where people show up with half-formed ideas and leave with something they actually built.
+I'm a student who loves bringing **builders, creators and curious people** together.
 
-I'm interested in the whole process: **community, partnerships, sponsorships, event operations, and the products people create together**. Outside events, I experiment with web projects and AI to tackle practical problems.
+My main thing? **Organizing hackathons and tech events** — from sponsorship outreach and partnerships to event operations, participant experience and everything that somehow needs fixing at the last minute.
 
-> More interested in making things happen than collecting fancy titles.
+I also work on **real-world problems** through web projects, AI experiments and practical ideas. Because a cool demo is nice, but something useful is even better.
 
-## WHAT I'M WORKING ON
+> **Good ideas deserve more than a group chat.**
+
+## 🎟️ THE EVENTS SIDE
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 01 / HACKOCALYPSE '27
-**Lead Organizer · Upcoming**
+### 🔴 HACKOCALYPSE 2027
+**Lead Organizer · In the works**
 
-A student-led, in-person hackathon planned for January 2027. Building the experience, team, partnerships, and everything in between.
+Building a student-led hackathon planned for January 2027. From community and partnerships to the event experience.
 
-[Event website →](https://hackocalypse.in/)
+**[🌐 Explore Hackocalypse](https://hackocalypse.in/)**
 
 </td>
 <td width="50%" valign="top">
 
-### 02 / FALLING SUN '26
+### ☀️ FALLING SUN 2026
 **Organizer · October 2026**
 
-Helped bring a student-led hackathon to life—from planning and partnerships to the on-ground experience.
+Helped organize an in-person student-led hackathon — working across coordination, partnerships and on-ground execution.
 
-*Event recap link to be added.*
+**Event recap coming soon.**
 
 </td>
 </tr>
 </table>
 
-## THINGS I'VE BUILT / EXPLORED
+## 🧩 BUILDING THINGS THAT MATTER
 
-**CropShield AI** — Computer-vision project exploring crop anomaly detection.  
-**3rd place, AI/ML track — AAROH India Hackathon 2026.**
+| | Project | What it's about |
+|---|---|---|
+| 🌱 | **CropShield AI** | Computer vision for crop anomaly detection; built for AAROH India Hackathon |
+| 🛠️ | **[FixinDays](https://github.com/divyanshattrey/FixinDays)** | Exploring a simpler way to find and book local services |
+| 🏙️ | **[NagarLink](https://github.com/divyanshattrey/NagarLink)** | An early-stage civic-tech experiment |
 
-**[FixinDays](https://github.com/divyanshattrey/FixinDays)** — Exploring a better way to discover and book local services. *Early-stage public repo.*
+*Public repositories for FixinDays and NagarLink are early-stage. No fake live demos here.*
 
-**[NagarLink](https://github.com/divyanshattrey/NagarLink)** — Civic-tech exploration. *Early-stage public repo.*
+## 🏆 A LITTLE WIN
 
-No fake “live demos” here. I'll link them when they're actually live.
+**🥉 3rd Place — AI/ML · AAROH India Hackathon 2026**
 
-## TOOLS I REACH FOR
+Built **CropShield AI** with a focus on agriculture and computer vision.
 
-<div align="left">
+## 🧰 THE TOOLBOX
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,figma,flutter&theme=dark&perline=8" alt="HTML, CSS, JavaScript, Python, Git, GitHub, Figma and Flutter" />
+**Things I work with / explore:**
 
-</div>
+`Web Development` · `AI/ML` · `Python` · `JavaScript` · `HTML/CSS` · `GitHub` · `Flutter` · `Canva`
 
-<sub>Also: Canva, event spreadsheets, way too many browser tabs, and the occasional last-minute fix.</sub>
+**Things I spend even more time on:**
 
-## THE GITHUB PART
+`Hackathons` · `Event Operations` · `Sponsorships` · `Partnerships` · `Community Building` · `Problem Solving`
+
+## 📬 GOT AN IDEA? LET'S TALK.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=divyanshattrey&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9" alt="GitHub contribution streak" />
+### Building something cool? Organizing an event? Need a collaborator?
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshattrey&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=30363d&hide_border=true" alt="GitHub activity graph" />
+**I'd rather hear about your idea than another “let's connect” message.** 💀
 
-</div>
-
-## SAY HELLO
-
-Not hiding the contact links behind broken icons this time.
-
-<a href="https://instagram.com/whereissdivyansh/"><img src="https://img.shields.io/badge/Instagram-whereissdivyansh-18181B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: whereissdivyansh" /></a>
-<a href="mailto:divyanshattrey491@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Divyansh" /></a>
-<a href="https://www.technotroob.xyz/"><img src="https://img.shields.io/badge/Website-technotroob.xyz-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
-
-**Direct links:** [Instagram](https://instagram.com/whereissdivyansh/) · [Email](mailto:divyanshattrey491@gmail.com) · [Portfolio](https://www.technotroob.xyz/)
+| 🔗 | Find me |
+|:---:|:---|
+| 🌐 | **[Portfolio — technotroob.xyz](https://www.technotroob.xyz/)** |
+| 📸 | **[Instagram — @whereissdivyansh](https://instagram.com/whereissdivyansh/)** |
+| ✉️ | **[Email — divyanshattrey491@gmail.com](mailto:divyanshattrey491@gmail.com)** |
+| 💻 | **[GitHub — @divyanshattrey](https://github.com/divyanshattrey)** |
+| 🎟️ | **[Hackocalypse — hackocalypse.in](https://hackocalypse.in/)** |
 
 ---
 
-<div align="center">
-<sub>building communities, solving problems, and pretending the event checklist is under control.</sub>
+<sub>currently organizing chaos and calling it an event plan.</sub>
+
 </div>
