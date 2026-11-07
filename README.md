@@ -1,82 +1,97 @@
 <div align="center">
 
-# hey, i'm divyansh.
+# DIVYANSH ATTREY
 
-**i bring people together to build things that matter.**
+**Hackathon Organizer · Community Builder · Building for the Real World**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1100&color=B7BDC6&center=true&vCenter=true&width=650&lines=organizing+hackathons+%26+events;building+communities+around+ideas;solving+real-world+problems;turning+%22what+if%22+into+%22we+did+it%22)](https://github.com/DenverCoder1/readme-typing-svg)
+16, based in Delhi. I bring builders into the same room, turn ideas into events, and occasionally remember to sleep.
 
-16 · hackathon & event organizer · builder · professional chaos coordinator
+[**Website**](https://www.technotroob.xyz/) &nbsp;·&nbsp; [**Instagram**](https://instagram.com/whereissdivyansh/) &nbsp;·&nbsp; [**Email**](mailto:divyanshattrey491@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/portfolio-technotroob.xyz-21262D?style=flat-square&logo=googlechrome&logoColor=white)](https://www.technotroob.xyz/)
-[![GitHub](https://img.shields.io/badge/github-divyanshattrey-21262D?style=flat-square&logo=github&logoColor=white)](https://github.com/divyanshattrey)
-[![Hackocalypse](https://img.shields.io/badge/event-hackocalypse.in-21262D?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://hackocalypse.in/)
-[![Instagram](https://img.shields.io/badge/instagram-whereissdivyansh-21262D?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/whereissdivyansh/)
-[![Email](https://img.shields.io/badge/email-say%20hello-21262D?style=flat-square&logo=gmail&logoColor=white)](mailto:divyanshattrey491@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3300&pause=1300&color=A7ADB7&center=true&vCenter=true&width=700&height=45&lines=I+organize+hackathons+%26+events.;I+build+things+for+real+problems.;Good+ideas+deserve+more+than+a+group+chat." alt="Animated introduction" />
 
 </div>
 
 ---
 
-### the short version
+## THE PERSON BEHIND THE TABS
 
-i'm a 16-year-old student who spends a slightly unreasonable amount of time **organizing hackathons, building tech communities, and working on ideas that solve actual problems**.
+I spend most of my time **organizing hackathons and tech events**—the kind where people show up with half-formed ideas and leave with something they actually built.
 
-i care about what happens *beyond the code*: getting people in the same room, helping good ideas find momentum, and making events that people remember for the right reasons.
+I'm interested in the whole process: **community, partnerships, sponsorships, event operations, and the products people create together**. Outside events, I experiment with web projects and AI to tackle practical problems.
 
-i also build projects across web and AI. sometimes they work on the first try. allegedly.
+> More interested in making things happen than collecting fancy titles.
 
-### what i spend my time on
+## WHAT I'M WORKING ON
 
-- **hackathons & events** — planning, partnerships, sponsorships, operations, and bringing builders together.
-- **real-world problem solving** — exploring practical ideas in civic tech, agriculture, and local services.
-- **communities** — creating spaces where students and developers can meet, collaborate, and ship.
-- **building** — websites, prototypes, and AI experiments. learning in public, one questionable commit at a time.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### on the organizing side
+### 01 / HACKOCALYPSE '27
+**Lead Organizer · Upcoming**
 
-| initiative | my involvement | more |
-| :--- | :--- | :--- |
-| **Hackocalypse 2027** | Lead organizer · student-led hackathon in the works | [Event website ↗](https://hackocalypse.in/) |
-| **Falling Sun 2026** | Organizer · student-led hackathon | Event recap / public link coming soon |
+A student-led, in-person hackathon planned for January 2027. Building the experience, team, partnerships, and everything in between.
 
-> the goal isn't just to host events. it's to give people a reason to build something they wouldn't have built alone.
+[Event website →](https://hackocalypse.in/)
 
-### projects & experiments
+</td>
+<td width="50%" valign="top">
 
-| project | what it's about | link |
-| :--- | :--- | :--- |
-| **CropShield AI** | Exploring computer vision for crop anomaly detection; part of an AI/ML hackathon project | Public repo / demo not linked yet |
-| **FixinDays** | A concept for making everyday local services easier to discover and book | [GitHub ↗](https://github.com/divyanshattrey/FixinDays) |
-| **NagarLink** | An early-stage civic-tech idea | [GitHub ↗](https://github.com/divyanshattrey/NagarLink) |
+### 02 / FALLING SUN '26
+**Organizer · October 2026**
 
-<sub>Some public repositories are still empty or early-stage. I'd rather show real progress than pretend everything is shipped.</sub>
+Helped bring a student-led hackathon to life—from planning and partnerships to the on-ground experience.
 
-### a small win
+*Event recap link to be added.*
 
-**3rd place — AI/ML track, AAROH India Hackathon 2026**  
-Worked on **CropShield AI**, an agriculture-focused computer vision project.
+</td>
+</tr>
+</table>
 
-### github, when i'm not chasing event logistics
+## THINGS I'VE BUILT / EXPLORED
+
+**CropShield AI** — Computer-vision project exploring crop anomaly detection.  
+**3rd place, AI/ML track — AAROH India Hackathon 2026.**
+
+**[FixinDays](https://github.com/divyanshattrey/FixinDays)** — Exploring a better way to discover and book local services. *Early-stage public repo.*
+
+**[NagarLink](https://github.com/divyanshattrey/NagarLink)** — Civic-tech exploration. *Early-stage public repo.*
+
+No fake “live demos” here. I'll link them when they're actually live.
+
+## TOOLS I REACH FOR
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,figma,flutter&theme=dark&perline=8" alt="HTML, CSS, JavaScript, Python, Git, GitHub, Figma and Flutter" />
+
+</div>
+
+<sub>Also: Canva, event spreadsheets, way too many browser tabs, and the occasional last-minute fix.</sub>
+
+## THE GITHUB PART
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=divyanshattrey&theme=github-dark-blue&hide_border=true&background=0D1117&ring=9CA3AF&fire=9CA3AF&currStreakLabel=9CA3AF)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<img src="https://streak-stats.demolab.com?user=divyanshattrey&theme=github-dark-blue&hide_border=true&background=0D1117&ring=8B949E&fire=8B949E&currStreakLabel=C9D1D9" alt="GitHub contribution streak" />
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=divyanshattrey&bg_color=0d1117&color=9ca3af&line=8b949e&point=ffffff&area=true&area_color=30363d&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshattrey&bg_color=0d1117&color=8b949e&line=c9d1d9&point=ffffff&area=true&area_color=30363d&hide_border=true" alt="GitHub activity graph" />
 
 </div>
+
+## SAY HELLO
+
+Not hiding the contact links behind broken icons this time.
+
+<a href="https://instagram.com/whereissdivyansh/"><img src="https://img.shields.io/badge/Instagram-whereissdivyansh-18181B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: whereissdivyansh" /></a>
+<a href="mailto:divyanshattrey491@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-18181B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Divyansh" /></a>
+<a href="https://www.technotroob.xyz/"><img src="https://img.shields.io/badge/Website-technotroob.xyz-18181B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
+
+**Direct links:** [Instagram](https://instagram.com/whereissdivyansh/) · [Email](mailto:divyanshattrey491@gmail.com) · [Portfolio](https://www.technotroob.xyz/)
 
 ---
 
 <div align="center">
-
-**good ideas deserve more than a group chat.**
-
-if you're building something useful, organizing an event, or making a community better, we probably have something to talk about.
-
-[**my corner of the internet ↗**](https://www.technotroob.xyz/) · [**instagram ↗**](https://instagram.com/whereissdivyansh/) · [**email me ↗**](mailto:divyanshattrey491@gmail.com)
-
-<sub>currently juggling projects, events, and an unreasonable number of tabs.</sub>
-
+<sub>building communities, solving problems, and pretending the event checklist is under control.</sub>
 </div>
