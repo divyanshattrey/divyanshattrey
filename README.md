@@ -2,9 +2,11 @@
 
 # HEY, I'M DIVYANSH 👋
 
+<img src="assets/orbit.gif" width="760" alt="Animated monochrome rotating wireframe cube" />
+
 ### I organize hackathons. I build communities. I turn ideas into things that actually happen.
 
-**16 · Delhi, India · Event Organizer / Builder / Professional Tab Hoarder / Melomaniac**
+**16 · Delhi, India · Event Organizer / Builder / Professional Tab Hoarder**
 
 *Usually planning an event, chasing a deadline, or building something that solves an actual problem.*
 
@@ -89,7 +91,6 @@ Built **CropShield AI** with a focus on agriculture and computer vision.
 |:---:|:---|
 | 📸 | **[Instagram — @whereissdivyansh](https://instagram.com/whereissdivyansh/)** |
 | ✉️ | **[Email — divyanshattrey491@gmail.com](mailto:divyanshattrey491@gmail.com)** |
-
 
 ---
 
