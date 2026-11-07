@@ -87,12 +87,9 @@ Built **CropShield AI** with a focus on agriculture and computer vision.
 
 | 🔗 | Find me |
 |:---:|:---|
-| 🌐 | **[Portfolio — technotroob.xyz](https://www.technotroob.xyz/)** |
 | 📸 | **[Instagram — @whereissdivyansh](https://instagram.com/whereissdivyansh/)** |
 | ✉️ | **[Email — divyanshattrey491@gmail.com](mailto:divyanshattrey491@gmail.com)** |
-| 💻 | **[GitHub — @divyanshattrey](https://github.com/divyanshattrey)** |
-| 🎟️ | **[Hackocalypse — hackocalypse.in](https://hackocalypse.in/)** |
-| ☀️ | **[Falling Sun — fallingsun.in](https://fallingsun.in/)** |
+
 
 ---
 
