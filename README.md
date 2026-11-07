@@ -1,100 +1,67 @@
-<div align="center">
+<div align="center">HEY, I'M DIVYANSH 👋
+I organize hackathons. I build communities. I turn ideas into things that actually happen.
+16 · Delhi, India · Event Organizer / Builder / Professional Tab Hoarder
 
-# HEY, I'M DIVYANSH 👋
+Usually planning an event, chasing a deadline, or building something that solves an actual problem.
 
-### I organize hackathons. I build communities. I turn ideas into things that actually happen.
+🌐 MY WEBSITE   •   📸 INSTAGRAM   •   ✉️ EMAIL ME
+</div>⚡ NOT JUST HERE TO PUSH COMMITS
+I'm a student who loves bringing builders, creators and curious people together.
 
-**16 · Delhi, India · Event Organizer / Builder / Professional Tab Hoarder**
+My main thing? Organizing hackathons and tech events — from sponsorship outreach and partnerships to event operations, participant experience and everything that somehow needs fixing at the last minute.
 
-*Usually planning an event, chasing a deadline, or building something that solves an actual problem.*
+I also work on real-world problems through web projects, AI experiments and practical ideas. Because a cool demo is nice, but something useful is even better.
+Good ideas deserve more than a group chat.
 
-[🌐 **MY WEBSITE**](https://www.technotroob.xyz/) &nbsp; • &nbsp; [📸 **INSTAGRAM**](https://instagram.com/whereissdivyansh/) &nbsp; • &nbsp; [✉️ **EMAIL ME**](mailto:divyanshattrey491@gmail.com)
-
-</div>
-
----
-
-## ⚡ NOT JUST HERE TO PUSH COMMITS
-
-I'm a student who loves bringing **builders, creators and curious people** together.
-
-My main thing? **Organizing hackathons and tech events** — from sponsorship outreach and partnerships to event operations, participant experience and everything that somehow needs fixing at the last minute.
-
-I also work on **real-world problems** through web projects, AI experiments and practical ideas. Because a cool demo is nice, but something useful is even better.
-
-> **Good ideas deserve more than a group chat.**
-
-## 🎟️ THE EVENTS SIDE
-
+🎟️ THE EVENTS SIDE
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🔴 HACKOCALYPSE 2027
-**Lead Organizer · In the works**
+<td width="50%" valign="top">🔴 HACKOCALYPSE 2027
+Lead Organizer · In the works
 
 Building a student-led hackathon planned for January 2027. From community and partnerships to the event experience.
 
-**[🌐 Explore Hackocalypse](https://hackocalypse.in/)**
-
+🌐 Explore Hackocalypse
 </td>
-<td width="50%" valign="top">
-
-### ☀️ FALLING SUN 2026
-**Organizer · October 2026**
+<td width="50%" valign="top">☀️ FALLING SUN 2026
+Organizer · October 2026
 
 Helped organize an in-person student-led hackathon — working across coordination, partnerships and on-ground execution.
 
-**Event recap coming soon.**
-
+🌐 Visit Falling Sun
 </td>
 </tr>
-</table>
+</table>🧩 BUILDING THINGS THAT MATTER
+	Project	What it's about
+🌱	CropShield AI	Computer vision for crop anomaly detection; built for AAROH India Hackathon
+🛠️	FixinDays	Exploring a simpler way to find and book local services
+🏙️	NagarLink	An early-stage civic-tech experiment
 
-## 🧩 BUILDING THINGS THAT MATTER
 
-| | Project | What it's about |
-|---|---|---|
-| 🌱 | **CropShield AI** | Computer vision for crop anomaly detection; built for AAROH India Hackathon |
-| 🛠️ | **[FixinDays](https://github.com/divyanshattrey/FixinDays)** | Exploring a simpler way to find and book local services |
-| 🏙️ | **[NagarLink](https://github.com/divyanshattrey/NagarLink)** | An early-stage civic-tech experiment |
+Public repositories for FixinDays and NagarLink are early-stage. No fake live demos here.
+🏆 A LITTLE WIN
+🥉 3rd Place — AI/ML · AAROH India Hackathon 2026
 
-*Public repositories for FixinDays and NagarLink are early-stage. No fake live demos here.*
+Built CropShield AI with a focus on agriculture and computer vision.
+🧰 THE TOOLBOX
+Things I work with / explore:
 
-## 🏆 A LITTLE WIN
+Web Development · AI/ML · Python · JavaScript · HTML/CSS · GitHub · Flutter · Canva
 
-**🥉 3rd Place — AI/ML · AAROH India Hackathon 2026**
+Things I spend even more time on:
 
-Built **CropShield AI** with a focus on agriculture and computer vision.
+Hackathons · Event Operations · Sponsorships · Partnerships · Community Building · Problem Solving
+📬 GOT AN IDEA? LET'S TALK.
+<div align="center">Building something cool? Organizing an event? Need a collaborator?
+I'd rather hear about your idea than another “let's connect” message. 💀
+🔗	Find me
+🌐	Portfolio — technotroob.xyz
+📸	Instagram — @whereissdivyansh
+✉️	Email — divyanshattrey491@gmail.com
+💻	GitHub — @divyanshattrey
+🎟️	Hackocalypse — hackocalypse.in
+☀️	Falling Sun — fallingsun.in
 
-## 🧰 THE TOOLBOX
-
-**Things I work with / explore:**
-
-`Web Development` · `AI/ML` · `Python` · `JavaScript` · `HTML/CSS` · `GitHub` · `Flutter` · `Canva`
-
-**Things I spend even more time on:**
-
-`Hackathons` · `Event Operations` · `Sponsorships` · `Partnerships` · `Community Building` · `Problem Solving`
-
-## 📬 GOT AN IDEA? LET'S TALK.
-
-<div align="center">
-
-### Building something cool? Organizing an event? Need a collaborator?
-
-**I'd rather hear about your idea than another “let's connect” message.** 💀
-
-| 🔗 | Find me |
-|:---:|:---|
-| 🌐 | **[Portfolio — technotroob.xyz](https://www.technotroob.xyz/)** |
-| 📸 | **[Instagram — @whereissdivyansh](https://instagram.com/whereissdivyansh/)** |
-| ✉️ | **[Email — divyanshattrey491@gmail.com](mailto:divyanshattrey491@gmail.com)** |
-| 💻 | **[GitHub — @divyanshattrey](https://github.com/divyanshattrey)** |
-| 🎟️ | **[Hackocalypse — hackocalypse.in](https://hackocalypse.in/)** |
-
----
 
 <sub>currently organizing chaos and calling it an event plan.</sub>
-
 </div>
