@@ -4,7 +4,7 @@
 
 ### I organize hackathons. I build communities. I turn ideas into things that actually happen.
 
-**16 · Delhi, India · Event Organizer / Builder / Professional Tab Hoarder**
+**16 · Delhi, India · Event Organizer / Builder / Professional Tab Hoarder / Melomaniac**
 
 *Usually planning an event, chasing a deadline, or building something that solves an actual problem.*
 
