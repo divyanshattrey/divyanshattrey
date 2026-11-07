@@ -8,7 +8,7 @@
 
 *Usually planning an event, chasing a deadline, or building something that solves an actual problem.*
 
-[🌐 **MY WEBSITE**](https://www.technotroob.xyz/) &nbsp; • &nbsp; [📸 **INSTAGRAM**](https://instagram.com/whereissdivyansh/) &nbsp; • &nbsp; [✉️ **EMAIL ME**](mailto:divyanshattrey491@gmail.com)
+[🌐 **Techno Troob**](https://www.technotroob.xyz/) &nbsp; • &nbsp; [📸 **INSTAGRAM**](https://instagram.com/whereissdivyansh/) &nbsp; • &nbsp; [✉️ **EMAIL ME**](mailto:divyanshattrey491@gmail.com)
 
 </div>
 
